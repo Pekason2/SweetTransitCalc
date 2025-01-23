@@ -1,0 +1,25 @@
+html {
+    background-color: #310303;
+    color: gray;
+    font-family: Bahnschrift, serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+label {
+    font-size: 25px;
+}
+
+select, input {
+    position: fixed;
+    left: 270px;
+    background-color: darkslategray;
+    color: #ffb7b7;
+    font-size: 20px;
+    height: 30px;
+    width: 20%;
+    border: none;
+}
